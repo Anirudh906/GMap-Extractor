@@ -4,7 +4,7 @@ Google maps extractor using pupeteer
 NodeJS
 ## Steps to download
 ```
-git clone
+git clone https://github.com/Anirudh906/GMap-Extractor.git
 npm install
 nodemon index.js
 ```
